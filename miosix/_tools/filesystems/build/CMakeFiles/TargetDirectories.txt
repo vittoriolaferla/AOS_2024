@@ -1,0 +1,3 @@
+/home/vittorio/Scrivania/ST25DV/miosix-kernel/miosix/_tools/filesystems/build/CMakeFiles/buildromfs.dir
+/home/vittorio/Scrivania/ST25DV/miosix-kernel/miosix/_tools/filesystems/build/CMakeFiles/edit_cache.dir
+/home/vittorio/Scrivania/ST25DV/miosix-kernel/miosix/_tools/filesystems/build/CMakeFiles/rebuild_cache.dir

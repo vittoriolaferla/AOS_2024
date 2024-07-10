@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -rdynamic CMakeFiles/buildromfs.dir/buildromfs.cpp.o -o buildromfs 
